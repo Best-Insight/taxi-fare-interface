@@ -106,4 +106,32 @@ no changes added to commit (use "git add" and/or "git commit -a")
 ]2;git push origin master]1;gitEnumerating objects: 6, done.
 Counting objects:  16% (1/6)Counting objects:  33% (2/6)Counting objects:  50% (3/6)Counting objects:  66% (4/6)Counting objects:  83% (5/6)Counting objects: 100% (6/6)Counting objects: 100% (6/6), done.
 Delta compression using up to 4 threads
-Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 1
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 2.20 KiB | 2.20 MiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To github.com:Best-Insight/taxi-fare-interface.git
+   6f5dfd2..d61dc5d  master -> master
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;32m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[1m[31mg[1m[31mi[0m[39m[39m [0m[32mg[39m[0m[39m [39m [32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4ms[24m[4ms[4mt[24m[24ms[24mtatus[?1l>[?2004l
+]2;git status]1;gitOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;32m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m add [4mt[24m[4mt[4my[24m[4my[4mp[24m[4mp[4me[24m[4me[4ms[24m[4ms[4mc[24m[4mc[4mr[24m[4mr[4mi[24m[4mi[4mp[24m[4mp[4mt[24m[?1l>[?2004l
+]2;git add typescript]1;git[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;32m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m commiu      [1m[31mg[1m[31mi[0m[39m[39m [0m[32mg[0m[32mi[32mt[39m [4ms[24m[4ms[4mt[24m[24ms[24mtatus[?1l>[?2004l
+]2;git status]1;gitOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   typescript[m
+
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;32m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m commiyt   t-  -m [33m'[39m[33m'[33mo[39m[33mo[33mo[39m[33mo[33m'[39m[?1l>[?2004l
+]2;git commit -m 'oo']1;git[master d927603] oo
+ 1 file changed, 31 insertions(+), 1 deletion(-)
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;32m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m)[00m [K[76C[🐍 lewagon][88D[?1h=[?2004h[32mg[39m[1m[
