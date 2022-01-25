@@ -1,0 +1,79 @@
+Script started on 2022-01-25 20:00:55+11:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="125" LINES="29"]
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;32m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[1m[31mo[0m[39m[1m[31mo[1m[31mp[0m[39m[1m[31mo[1m[31mp[1m[31me[0m[39m[1m[31me[1m[31mn[0m[39m [1m[31me[0m[39m[0m[39m [1m[31mo[1m[31mp[0m[39m[0m[39m [1m[31mo[0m[39m[0m[39m [0m[39m [1m[31ms[0m[39m[1m[31ms[1m[31mc[0m[39m[1m[31ms[1m[31mc[1m[31mr[0m[39m[1m[31mr[1m[31mi[0m[39m[1m[31mi[1m[31mp[0m[39m[0m[32ms[0m[32mc[0m[32mr[0m[32mi[0m[32mp[32mt[39m[1m[31ms[1m[31mc[1m[31mr[1m[31mi[1m[31mp[1m[31mt[1m[31m.[0m[39m[1m[31m.[1m[31mj[0m[39m[1m[31mj[1m[31ms[0m[39m[?1l>[?2004l
+]2;script.js]1;script.jszsh: command not found: script.js
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;31m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[32mp[39m[1m[31mp[1m[31my[0m[39m[1m[31mp[1m[31my[1m[31mt[0m[39m[1m[31mt[1m[31mh[0m[39m[1m[31mh[1m[31mo[0m[39m[0m[32mp[0m[32my[0m[32mt[0m[32mh[0m[32mo[32mn[39m [4ms[24m[4ms[4mc[24m[4mc[4mr[24m[4mr[4mi[24m[4mi[4mp[24m[4mp[4mt[24m[4mt[4m.[24m[4m.[4mj[24m[8D[24ms[24mc[24mr[24mi[24mp[24mt[24m.[24mja[9D[4ms[4mc[4mr[4mi[4mp[4mt[4m.[4mj[24m [4mj[4ms[24m[?1l>[?2004l
+]2;python script.js]1;python  File "script.js", line 1
+    const algoliaPlacesApiAppId = 'plU4N8HG6QWK';
+          ^
+SyntaxError: invalid syntax
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;31m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[1m[31mn[0m[39m[1m[31mn[1m[31mo[0m[39m[1m[31mn[1m[31mo[1m[31md[0m[39m[1m[31md[1m[31me[0m[39m [4ms[24m[4ms[4mc[24m[4mc[4mr[24m[24ms[24mc[24mro[4ms[4mc[4mr[24m [4mr[4mi[24m[4mi[4mp[24m[4mp[4mt[24m[24ms[24mc[24mr[24mi[24mp[24mt/[4ms[4mc[4mr[4mi[4mp[4mt[24m [4mt[4m.[24m[24ms[24mc[24mr[24mi[24mp[24mt[24m.k[8D[4ms[4mc[4mr[4mi[4mp[4mt[4m.[24m [4m.[4mj[24m[4mj[4ms[24m[?1l>[?2004l
+]2;node script.js]1;nodezsh: command not found: node
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;31m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[1m[31mnode[0m[39m [4mscript.js[24m[14D[0m[32mp[0m[32my[0m[32mt[0m[32mh[32mo[24m[32mn[39m[24m [4ms[4mc[4mr[4mi[4mp[4mt[4m.[4mjs[24m[16D[1m[31ms[1m[31mc[1m[31mr[1m[31mi[1m[31mp[1m[31mt[1m[31m.[24m[1m[31mj[24m[1m[31ms[0m[39m[24m [24m [24m [24m [24m [24m [24m [9D[0m[32ms[0m[32mc[0m[32mr[0m[32mi[0m[32mp[0m[32mt[39m[0m[39m [0m[39m [0m[39m [32ml[32ms[39m[39m [39m [39m [39m [32mp[32my[32mthon[39m -m http.serverhttp://localhost:8000/    [39D[39mp[39my[39mt[39mh[39mo[39mn[32C [38D[32mp[32my[32mt[32mh[32mo[32mn[39m[31C                  [7mpython -m http.server 5000 --bind 127.0.0.1[27m[43D[27mp[27my[27mt[27mh[27mo[27mn[27m [27m-[27mm[27m [27mh[27mt[27mt[27mp[27m.[27ms[27me[27mr[27mv[27me[27mr[27m [27m5[27m0[27m0[27m0[27m [27m-[27m-[27mb[27mi[27mn[27md[27m [27m1[27m2[27m7[27m.[27m0[27m.[27m0[27m.[27m                                      [0m[27m[24m[J[01;31m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [32mpython[39m -m http.server[K[53C[🐍 lewagon][64D[0m[27m[24m[J[01;31m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [32mpython[39m -m http.server[K[53C[🐍 lewagon][64D[22D[39mp[39my[39mt[39mh[39mo[39mn[16C[7mhttps://taxi-fare-api-image-7fcrmetemq-de.a.run.app[27m[73D[32mp[32my[32mt[32mh[32mo[32mn[39m[16C[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mt[27ma[27mx[27mi[27m-[27mf[27ma[27mr[27me[27m-[27ma[27mp[27mi[27m-[27mi[27mm[27ma[27mg[27me[27m-[27m7[27mf[27mc[27mr[27mm[27me[27mt[27me[27mm[27mq[27m-[27md[27me[27m.[27ma[27m.[27mr[27mu[27mn[27m.[27ma[27mp[27mp/[Kpredict[?1l>[?2004l
+]2;python -m http.server ]1;pythonusage: server.py [-h] [--cgi] [--bind ADDRESS] [--directory DIRECTORY] [port]
+server.py: error: argument port: invalid int value: 'https://taxi-fare-api-image-7fcrmetemq-de.a.run.app/predict'
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;31m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[32mpython[39m -m http.server https://taxi-fare-api-image-7fcrmetemq-de.a.run.app/predict[K       [K[1C[🐍 lewagon][13D[?1l>[?2004l
+]2;python -m http.server https://taxi-fare-api-image-7fcrmetemq-de.a.run.app]1;pythonusage: server.py [-h] [--cgi] [--bind ADDRESS] [--directory DIRECTORY] [port]
+server.py: error: argument port: invalid int value: 'https://taxi-fare-api-image-7fcrmetemq-de.a.run.app'
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;31m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[7mpython -m http.server 5000 --bind 127.0.0.1[27m[43D[27m[32mp[27m[32my[27m[32mt[27m[32mh[27m[32mo[27m[32mn[39m[27m [27m-[27mm[27m [27mh[27mt[27mt[27mp[27m.[27ms[27me[27mr[27mv[27me[27mr[27m [27m5[27m0[27m0[27m0[27m [27m-[27m-[27mb[27mi[27mn[27md[27m [27m1[27m2[27m7[27m.[27m0[27m.[27m0[27m.[27m1[?1l>[?2004l
+]2;python -m http.server 5000 --bind 127.0.0.1]1;pythonServing HTTP on 127.0.0.1 port 5000 (http://127.0.0.1:5000/) ...
+127.0.0.1 - - [25/Jan/2022 20:08:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:08:25] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:08:26] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:08:26] "GET /images/le-wagon-neg-color.png HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:08:27] "GET /images/favicons/favicon-32x32.png HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:08:27] "GET /images/favicons/site.webmanifest HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:10:41] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:10:41] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:10:41] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:10:42] "GET /images/le-wagon-neg-color.png HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:10:43] "GET /images/favicons/favicon-32x32.png HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:10:43] "GET /images/favicons/site.webmanifest HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:12:23] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:12:24] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:12:24] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:12:24] "GET /images/le-wagon-neg-color.png HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:12:25] "GET /images/favicons/favicon-32x32.png HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:12:25] "GET /images/favicons/site.webmanifest HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:14:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:14:06] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:17:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:17:28] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:17:28] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:17:28] "GET /images/le-wagon-neg-color.png HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:17:30] "GET /images/favicons/site.webmanifest HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:17:30] "GET /images/favicons/favicon-32x32.png HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:21:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:21:45] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:21:45] "GET /script.js HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:21:45] "GET /images/le-wagon-neg-color.png HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:21:46] "GET /images/favicons/favicon-32x32.png HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:21:46] "GET /images/favicons/site.webmanifest HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:24:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:24:44] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:24:44] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:24:44] "GET /images/le-wagon-neg-color.png HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:24:45] "GET /images/favicons/favicon-32x32.png HTTP/1.1" 200 -
+^C
+Keyboard interrupt received, exiting.
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;32m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[32mpython[39m -m http.server 5000 --bind 127.0.0.1[?1l>[?2004l
+]2;python -m http.server 5000 --bind 127.0.0.1]1;pythonServing HTTP on 127.0.0.1 port 5000 (http://127.0.0.1:5000/) ...
+127.0.0.1 - - [25/Jan/2022 20:28:36] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:28:36] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:28:36] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2022 20:28:36] "GET /images/le-wagon-neg-color.png HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2022 20:28:37] "GET /images/favicons/site.webmanifest HTTP/1.1" 304 -
+^C
+Keyboard interrupt received, exiting.
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;32m➜  [36mtaxi-fare-interface[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[74C[🐍 lewagon][86D[?1h=[?2004h[32mg[39m[32mg[32mh[39m re[ po browz se[?1l>[?2004l
+]2;gh repo browse]1;ghunknown command "browse" for "gh repo"
+
+Usage:  gh repo <command> [flags]
+
+Available commands:
+  clone
+  create
+  fork
+  list
+  sync
+  view
+[1m[7m%[27m[1m[0m                                                                                                                             ]2;cathal@DESKTOP-1CG9GS9:~/code/Best-Insight/taxi-fare-interface]1;..are-interface[0m[27m[24m[J[01;31m➜  [36mtaxi-fare-interface[00m [01
